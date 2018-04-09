@@ -1,4 +1,4 @@
-package org.lyc.designpattern;
+package org.lyc.designpattern.Singleton;
 
 //单例模式
 public class Singleton {
